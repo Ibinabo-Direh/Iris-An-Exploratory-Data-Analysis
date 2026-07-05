@@ -49,15 +49,19 @@ The analysis focused on answering several key questions:
 ## Recommendations
 * For machine learning classification tasks, give priority to **petal length** and **petal width** over sepal metrics, as they will prove more effective in prediction.
 
-Because Setosa is visibly separable, and the other two have only some overlap,simple linear models (like Logistic Regression) or simple decision trees will likely work better in terms of accuracy.
+* Because Setosa is visibly separable, and the other two have only some overlap,simple linear models (like Logistic Regression) or simple decision trees will likely work better in terms of accuracy.
 
 ## Limitations
 * The dataset contains only 150 records (50 per species), which is small for training highly robust generalized models.
 * The data may not fully capture the real-world variations caused by different soil types, climates, or geographic regions.
 
-## References
-* Fisher, R.A. (1936). "The use of multiple measurements in taxonomic problems."
-* Kaggle Iris Species Dataset Repository.
+### References
+
+* [Mastering Iris Dataset Analysis with Python](https://medium.com) 
+
+* [Intro to Machine Learning with Python 2: Exploratory Data Analysis](https://youtu.be)
+  
+* [Iris Data Classification Tutorial / Project Resource](https://youtu.be) 
 
 ## Author
 
