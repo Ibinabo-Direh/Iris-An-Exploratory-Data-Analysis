@@ -57,17 +57,17 @@ The analysis focused on answering several key questions:
 
 ### References
 
-* [Mastering Iris Dataset Analysis with Python](https://medium.com) 
+* [Mastering Iris Dataset Analysis with Python](https://bytemedirk.medium.com/mastering-iris-dataset-analysis-with-python-9e040a088ef4) 
 
-* [Intro to Machine Learning with Python 2: Exploratory Data Analysis](https://youtu.be)
+* [Intro to Machine Learning with Python 2: Exploratory Data Analysis](https://youtu.be/6BagRiSY1ds?si=bCgpgT9Ear1-SdfK)
   
-* [Iris Data Classification Tutorial / Project Resource](https://youtu.be) 
+* [Iris Data Classification Tutorial / Project Resource](https://youtu.be/WesX_DNhToM?si=3Jsh8TZZhM4PW5QP) 
 
 ## Author
 
 **Ibinabo Direh**
-[Machine Learning Intern|Data Scientist]
+[Machine Learning Intern | Data Scientist]
 
-- 🔗 [https://www.linkedin.com/in/ibinabo-direh]
-- 💼 [https://github.com/ibinabo-direh]
-- 📧 [ibinabo.id@gmail.com]
+- 🔗 https://www.linkedin.com/in/ibinabo-direh
+- 💼 https://github.com/ibinabo-direh
+- 📧 ibinabo.id@gmail.com
