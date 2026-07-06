@@ -66,7 +66,8 @@ The analysis focused on answering several key questions:
 ## Author
 
 **Ibinabo Direh**
-[Machine Learning Intern | Data Scientist]
+
+Machine Learning Specialist | Data Scientist
 
 - 🔗 https://www.linkedin.com/in/ibinabo-direh
 - 💼 https://github.com/ibinabo-direh
