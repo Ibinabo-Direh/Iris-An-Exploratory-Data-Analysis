@@ -1,4 +1,4 @@
-![Iris Banner](Iris banner.png)
+![Iris Banner](Iris Banner.png)
 
 
 # Iris: An Exploratory Data Analysis
