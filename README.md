@@ -1,3 +1,6 @@
+![Iris](Iris banner.png)
+
+
 # Iris: An Exploratory Data Analysis
 
 This project explores the classic Iris dataset to discover patterns and relationships across the different flower species.
